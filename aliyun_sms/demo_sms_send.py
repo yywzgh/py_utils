@@ -59,7 +59,6 @@ def send_sms(business_id, phone_numbers, sign_name, template_code, template_para
     return smsResponse
 
 
-
 if __name__ == '__main__':
     __business_id = uuid.uuid1()
     #print(__business_id)
