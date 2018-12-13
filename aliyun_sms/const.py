@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+# ACCESS_KEY_ID/ACCESS_KEY_SECRET 根据实际申请的账号信息进行替换
+
+#大行广场
+ACCESS_KEY_ID = "LTAIpUrJ9jP1YTId"
+ACCESS_KEY_SECRET = "KYh7B8iCoEAt2hrNQMW7Q2ihBBUvQB"
